@@ -63,7 +63,7 @@ Django Blog Site is a simple website that handles adding post, comments and supe
 <!-- CONTRIBUTING -->
 ## Contributing
 
-Paweł Brzóska
-Jose Portilla
+*Paweł Brzóska
+*Jose Portilla
 
 
