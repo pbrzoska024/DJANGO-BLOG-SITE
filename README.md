@@ -22,7 +22,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/github_username/repo">
-    <img src="logo.png" alt="Logo" width="80" height="80">
+    <img src="logo.png" alt="Logo" width="160" height="160">
   </a>
 
   <h3 align="center">DJANGO_BLOG_SITE</h3>
@@ -46,12 +46,10 @@ Django Blog Site is a simple website that handles adding post, comments and supe
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 <a href="https://github.com/github_username/repo">
-    <img src="site.png" alt="Logo" width="80" height="80">
+    <img src="site.png" alt="Logo" width="1000" height="400">
   </a>
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo`, `twitter_handle`, `email`
+
 
 
 ### Built With
