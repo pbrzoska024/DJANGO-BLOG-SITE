@@ -1,2 +1,2 @@
 # DJANGO-BLOG-SITE
-Simple blog site made in Django
+Blog site made in Django
