@@ -44,7 +44,7 @@
 <!-- ABOUT THE PROJECT -->
 Django Blog Site is a simple website that handles adding post, comments and superusers.
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+
 <a href="https://github.com/github_username/repo">
     <img src="site.png" alt="Logo" width="1000" height="400">
   </a>
