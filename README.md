@@ -22,7 +22,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/github_username/repo">
-    <img src="logo.png" alt="Logo" width="160" height="160">
+    <img src="logo.png" alt="Logo" width="160" height="100">
   </a>
 
   <h3 align="center">DJANGO_BLOG_SITE</h3>
